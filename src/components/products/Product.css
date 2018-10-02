@@ -1,0 +1,26 @@
+.colorsin{
+  border-radius: 50%;
+  border: 1px solid black;
+  width: 20px;
+  height: 10px;
+  background-color: blueviolet;
+}
+
+.flexpapa{
+  display: flex;
+  justify-content: space-around;
+}
+.productcard{
+  box-shadow: 5px 3px 5px 3px;
+  padding: 5px;
+  margin: 20px;
+}
+
+.productcard:hover{
+  box-shadow: 10px 7px 10px 7px;
+}
+
+.productcard img{
+  width: 200px;
+  height: 200px;
+}
